@@ -1,2 +1,2 @@
 # JavascriptHandsOn
-Collection of handson on different JavaScript concepts
+Collection of hands-on on different JavaScript concepts

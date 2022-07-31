@@ -1,0 +1,11 @@
+let str = 'H';
+let obj = ['Hello'];
+let num = 4;
+let bool = true;
+let undif;
+console.log(typeof str);
+console.log(typeof obj);
+console.log(typeof num);
+console.log(typeof bool);
+console.log(undif);
+console.log(typeof undif);

@@ -1,9 +1,0 @@
-webpack
-yarn
-nmp
-vue
-react
-angular
-parcel nmp
-Server Side -- Node.js
-Express JS -- WEb api (on top of node)
